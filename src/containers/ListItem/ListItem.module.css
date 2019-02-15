@@ -1,0 +1,115 @@
+.ListDiv {
+    width: calc(100% - 20px);
+    height: 40px;
+    padding: 10px;
+    display: table;
+    min-width: 500px;
+}
+
+.TopDiv {
+    text-align: left;
+    height: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.HeaderDiv {
+    height: 30px;
+    min-width: 350px;;
+    color: gray;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 150px;
+}
+
+.HeaderTitleDiv {
+    display: table-cell;
+    vertical-align: middle;
+    cursor: pointer;
+    min-width: 100px;
+    text-align: left;
+}
+
+.BottomDiv {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.WhiteDiv {
+    background-color: white;
+}
+
+.GrayDiv {
+    background-color: rgb(233, 238, 243);
+}
+
+.RowDiv {
+    display: table-row;
+}
+
+.AvatarDiv {
+    width: 60px;
+}
+
+.AuthorNameDiv {
+    display: table-cell;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    width: 200px;
+}
+
+.PublCountDiv {
+    display: table-cell;
+    font-size: 12px;
+    color: gray;
+    text-align: left;
+}
+
+.ViewsCountDiv {
+    display: table-cell;
+    padding: 0 40px;
+    font-size: 14px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.ContentDiv {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.LastDiv {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.NavigationDiv {
+    height: 40px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.NumDiv {
+    height: 100%;
+    width: 30px;
+    padding-right: 10px;
+    font-size: 12px;
+    color: gray;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.NameCircle {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    display: table-cell;
+    vertical-align: middle;
+    box-shadow: 0 0 10px 10px rgb(193, 198, 204);
+}

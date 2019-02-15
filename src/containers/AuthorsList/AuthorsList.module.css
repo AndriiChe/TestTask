@@ -1,0 +1,21 @@
+.Icon {
+    vertical-align: middle; 
+}
+
+.MedalLogo {
+    height: 35px;
+}
+
+.Input {
+    height: 20px;
+    width: 250px;
+    min-width: 150px;
+    padding: 0 5px;
+    margin: 0 5px;
+    background-color: rgb(233, 238, 243);
+    border: none;
+    font-weight: bold;
+}
+
+
+

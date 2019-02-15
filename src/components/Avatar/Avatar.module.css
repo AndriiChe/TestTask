@@ -1,0 +1,10 @@
+.Avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    display: table-cell;
+    vertical-align: middle;
+    box-shadow: 0 0 10px 10px rgb(193, 198, 204);
+}
